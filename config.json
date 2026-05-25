@@ -1,0 +1,8 @@
+{
+    "name": "dbservice-service",
+    "version": "1.0.526",
+    "private": false,
+    "environment": "production",
+    "build_id": 825,
+    "allow_public_access": true
+}
